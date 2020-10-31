@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/hyun_movie/static/css/main.ac23ed18.chunk.css",
+    "main.js": "/hyun_movie/static/js/main.0a7e1b47.chunk.js",
+    "main.js.map": "/hyun_movie/static/js/main.0a7e1b47.chunk.js.map",
+    "runtime-main.js": "/hyun_movie/static/js/runtime-main.12a00d24.js",
+    "runtime-main.js.map": "/hyun_movie/static/js/runtime-main.12a00d24.js.map",
+    "static/js/2.b1b8ee0c.chunk.js": "/hyun_movie/static/js/2.b1b8ee0c.chunk.js",
+    "static/js/2.b1b8ee0c.chunk.js.map": "/hyun_movie/static/js/2.b1b8ee0c.chunk.js.map",
+    "index.html": "/hyun_movie/index.html",
+    "static/css/main.ac23ed18.chunk.css.map": "/hyun_movie/static/css/main.ac23ed18.chunk.css.map",
+    "static/js/2.b1b8ee0c.chunk.js.LICENSE.txt": "/hyun_movie/static/js/2.b1b8ee0c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12a00d24.js",
+    "static/js/2.b1b8ee0c.chunk.js",
+    "static/css/main.ac23ed18.chunk.css",
+    "static/js/main.0a7e1b47.chunk.js"
+  ]
+}
